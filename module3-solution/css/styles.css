@@ -1,0 +1,48 @@
+#header-nav {
+	background-color: #999;
+}
+
+.navbar-brand {
+	/*padding-top: 10px;*/
+}
+
+.navbar-brand h1{
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #fff;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+	color: black;
+	vertical-align: middle;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	text-align: center;
+	background-color: #fff;
+	font-size: 1.5em;
+}
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+#nav-list li {
+	border: 1px solid #999;
+}
+
+#main-content section.row {
+	background-color: #999;
+	height: 1000px;
+	overflow: auto;
+	width: 80vw;
+	margin: 0 auto 0;
+}
+
+#main-content .col-xs-12 {
+	font-size: 1.5em;
+}
